@@ -13,6 +13,14 @@ This project is very simple, just run `gulp serve` to generate distribution file
 Install
 --------
 
+**Bower**
+
+```cmd
+bower install gos-websocket-client
+```
+
+**Old school**
+
 ```html
 <script type="text/javascript" src="dist/websocket.js"></script>
 ```
