@@ -1,0 +1,12 @@
+{
+  "name": "GosWebsocket",
+  "version": "0.1.0",
+  "description": "GosWebsocket Client Side of GosWebsocketBundle",
+  "main": "./src/gos-websocket.js",
+  "author": "Johann Saunier <johann_27@hotmail.fr>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^1.2.0"
+  }
+}
