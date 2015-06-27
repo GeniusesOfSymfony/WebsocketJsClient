@@ -1,0 +1,16 @@
+{
+  "name": "gos-websocket",
+  "version": "0.1.0",
+  "description": "Pure javascript websocket (WAMP) client",
+  "main": "dist/websocket.js",
+  "homepage": "https://github.com/GeniusesOfSymfony/WebsocketJsClient",
+  "license": "MIT",
+  "authors": [
+    "Johann Saunier <johann_27@hotmail.fr>"
+  ],
+  "keywords": [
+    "jquery",
+    "websocket",
+    "wamp"
+  ]
+}
